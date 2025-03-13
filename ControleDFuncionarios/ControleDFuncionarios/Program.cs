@@ -12,6 +12,8 @@ salario = horas * valorhora;
 
 Console.WriteLine("funcionario = " + funcionario);
 Console.WriteLine("salario = U$ " + salario.ToString("F2"), CultureInfo.InvariantCulture);
+Console.WriteLine("teste da alteração git");
+
 
 
 
