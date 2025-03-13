@@ -1,0 +1,14 @@
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.AssemblyInfoInputs.cache
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.AssemblyInfo.cs
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\Subitração\Subitração\bin\Debug\net8.0\Subitração.exe
+D:\CSharp-C#\Subitração\Subitração\bin\Debug\net8.0\Subitração.deps.json
+D:\CSharp-C#\Subitração\Subitração\bin\Debug\net8.0\Subitração.runtimeconfig.json
+D:\CSharp-C#\Subitração\Subitração\bin\Debug\net8.0\Subitração.dll
+D:\CSharp-C#\Subitração\Subitração\bin\Debug\net8.0\Subitração.pdb
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.dll
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\refint\Subitração.dll
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.pdb
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\Subitração.genruntimeconfig.cache
+D:\CSharp-C#\Subitração\Subitração\obj\Debug\net8.0\ref\Subitração.dll

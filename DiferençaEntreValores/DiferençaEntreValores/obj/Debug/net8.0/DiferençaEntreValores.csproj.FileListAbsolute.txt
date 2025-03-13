@@ -1,0 +1,14 @@
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\bin\Debug\net8.0\DiferençaEntreValores.exe
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\bin\Debug\net8.0\DiferençaEntreValores.deps.json
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\bin\Debug\net8.0\DiferençaEntreValores.runtimeconfig.json
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\bin\Debug\net8.0\DiferençaEntreValores.dll
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\bin\Debug\net8.0\DiferençaEntreValores.pdb
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.AssemblyInfoInputs.cache
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.AssemblyInfo.cs
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.dll
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\refint\DiferençaEntreValores.dll
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.pdb
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\DiferençaEntreValores.genruntimeconfig.cache
+D:\CSharp-C#\DiferençaEntreValores\DiferençaEntreValores\obj\Debug\net8.0\ref\DiferençaEntreValores.dll

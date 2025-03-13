@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp-C#\\SegundoExercicioDeFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A6EB61-285F-4369-9FD6-757719BE0D88}|SegundoExercicioDeFixacao\\SegundoExercicioDeFixacao.csproj|d:\\csharp-c#\\segundoexerciciodefixacao\\segundoexerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A6EB61-285F-4369-9FD6-757719BE0D88}|SegundoExercicioDeFixacao\\SegundoExercicioDeFixacao.csproj|solutionrelative:segundoexerciciodefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp-C#\\SegundoExercicioDeFixacao\\SegundoExercicioDeFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoExercicioDeFixacao\\Program.cs",
+              "ToolTip": "D:\\CSharp-C#\\SegundoExercicioDeFixacao\\SegundoExercicioDeFixacao\\Program.cs",
+              "RelativeToolTip": "SegundoExercicioDeFixacao\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:33:58.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

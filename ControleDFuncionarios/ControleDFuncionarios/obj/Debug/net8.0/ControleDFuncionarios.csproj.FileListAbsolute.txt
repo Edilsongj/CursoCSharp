@@ -1,0 +1,14 @@
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\bin\Debug\net8.0\ControleDFuncionarios.exe
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\bin\Debug\net8.0\ControleDFuncionarios.deps.json
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\bin\Debug\net8.0\ControleDFuncionarios.runtimeconfig.json
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\bin\Debug\net8.0\ControleDFuncionarios.dll
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\bin\Debug\net8.0\ControleDFuncionarios.pdb
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.AssemblyInfoInputs.cache
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.AssemblyInfo.cs
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.dll
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\refint\ControleDFuncionarios.dll
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.pdb
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ControleDFuncionarios.genruntimeconfig.cache
+D:\CSharp-C#\ControleDFuncionarios\ControleDFuncionarios\obj\Debug\net8.0\ref\ControleDFuncionarios.dll

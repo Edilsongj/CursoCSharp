@@ -1,0 +1,14 @@
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\bin\Debug\net8.0\SegundoExercicioDeFixacao.exe
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\bin\Debug\net8.0\SegundoExercicioDeFixacao.deps.json
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\bin\Debug\net8.0\SegundoExercicioDeFixacao.runtimeconfig.json
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\bin\Debug\net8.0\SegundoExercicioDeFixacao.dll
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\bin\Debug\net8.0\SegundoExercicioDeFixacao.pdb
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.AssemblyInfoInputs.cache
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.AssemblyInfo.cs
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.dll
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\refint\SegundoExercicioDeFixacao.dll
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.pdb
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\SegundoExercicioDeFixacao.genruntimeconfig.cache
+D:\CSharp-C#\SegundoExercicioDeFixacao\SegundoExercicioDeFixacao\obj\Debug\net8.0\ref\SegundoExercicioDeFixacao.dll

@@ -1,0 +1,14 @@
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\bin\Debug\net8.0\EstruturaSequencial01.exe
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\bin\Debug\net8.0\EstruturaSequencial01.deps.json
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\bin\Debug\net8.0\EstruturaSequencial01.runtimeconfig.json
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\bin\Debug\net8.0\EstruturaSequencial01.dll
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\bin\Debug\net8.0\EstruturaSequencial01.pdb
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.AssemblyInfoInputs.cache
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.AssemblyInfo.cs
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.dll
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\refint\EstruturaSequencial01.dll
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.pdb
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\EstruturaSequencial01.genruntimeconfig.cache
+D:\CSharp-C#\EstruturaSequencial01\EstruturaSequencial01\obj\Debug\net8.0\ref\EstruturaSequencial01.dll

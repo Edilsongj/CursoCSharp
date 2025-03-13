@@ -1,0 +1,14 @@
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.AssemblyInfoInputs.cache
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.AssemblyInfo.cs
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.exe
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.deps.json
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.runtimeconfig.json
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.dll
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.pdb
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.dll
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\refint\RaioDeUmCirculo.dll
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.pdb
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.genruntimeconfig.cache
+D:\CSharp-C#\RaioDeUmCirculo\RaioDeUmCirculo\obj\Debug\net8.0\ref\RaioDeUmCirculo.dll

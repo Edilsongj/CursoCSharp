@@ -1,0 +1,14 @@
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\bin\Debug\net8.0\ControleDeCaixa.exe
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\bin\Debug\net8.0\ControleDeCaixa.deps.json
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\bin\Debug\net8.0\ControleDeCaixa.runtimeconfig.json
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\bin\Debug\net8.0\ControleDeCaixa.dll
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\bin\Debug\net8.0\ControleDeCaixa.pdb
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.AssemblyInfoInputs.cache
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.AssemblyInfo.cs
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.csproj.CoreCompileInputs.cache
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.dll
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\refint\ControleDeCaixa.dll
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.pdb
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ControleDeCaixa.genruntimeconfig.cache
+D:\CSharp-C#\ControleDeCaixa\ControleDeCaixa\obj\Debug\net8.0\ref\ControleDeCaixa.dll
